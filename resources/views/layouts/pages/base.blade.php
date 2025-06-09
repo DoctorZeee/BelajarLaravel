@@ -6,7 +6,7 @@
         <meta name="csrf-token" content="{{ csrf_token() }}">
         <title>Dimas Portfolio Website</title>
         <!-- Fonts -->
-       <link rel="stylesheet" href="{{asset('tempalte/assets/fonts/unicons/css/line.css')}}">
+       <link rel="stylesheet" href="{{asset('template/assets/fonts/unicons/css/line.css')}}">
         <!-- CSS -->
          <!-- SWIPER CSS -->
         <link rel="stylesheet" href="{{asset('template/assets/css/swiper-bundle.min.css')}}">
