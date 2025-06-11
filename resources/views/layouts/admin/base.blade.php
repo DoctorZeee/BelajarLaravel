@@ -15,8 +15,8 @@
             @endif
 </head>
 <body>
-    @include ('layouts.admin.header')
-    @include ('layouts.admin.sidebar')
+    @include('layouts.admin.header')
+    @include('layouts.admin.sidebar')
     <main>
         @yield('content')
     </main>
